@@ -1,1 +1,1 @@
-# IP-University-Course-Project
+# Image Processing University Course Project
